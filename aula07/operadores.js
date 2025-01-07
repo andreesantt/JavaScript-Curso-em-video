@@ -28,3 +28,8 @@ var f = b % e + 4 / e // 3
 // n /= 2
 // n **= 2
 // n %= 5
+
+// Operadores de incremento
+// var x = 5
+// x = x + 1 -> x += 1 -->> x++
+// x = x -1 -> x-= 1 -->> x--
