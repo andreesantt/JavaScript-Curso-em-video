@@ -33,3 +33,5 @@ var f = b % e + 4 / e // 3
 // var x = 5
 // x = x + 1 -> x += 1 -->> x++
 // x = x -1 -> x-= 1 -->> x--
+
+// este este é o básico da linguagem
